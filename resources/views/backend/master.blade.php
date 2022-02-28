@@ -49,13 +49,13 @@
   <!--     Fonts and icons     -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
   <!-- Nucleo Icons -->
-  <link href="{{url('backend/css/nucleo-icons.css')}}" rel="stylesheet" />
-  <link href="{{url('backend/css/nucleo-svg.css')}}" rel="stylesheet" />
+  <link href="{{url('backend/css/nucleo-icons.css')}}"   />
+  <link href="{{url('backend/css/nucleo-svg.css')}}"     />
   <!-- Font Awesome Icons -->
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
-  <link href="{{url('backend/css/nucleo-svg.css')}}" rel="stylesheet" />
+  <link href="{{url('backend/css/nucleo-svg.css')}}"  />
   <!-- CSS Files -->
-  <link id="pagestyle" href="{{url('backend/css/soft-ui-dashboard.min.css')}}" rel="stylesheet" />
+  <link id="pagestyle" href="{{url('backend/css/soft-ui-dashboard.min.css')}}"  />
   <!-- Anti-flicker snippet (recommended)  -->
   <style>
     .async-hide {
